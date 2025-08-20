@@ -58,6 +58,9 @@
 |-------------|-------|
 | [forloop.java](./20-8-25/forloop.java) | For Loop Example |
 | [whileloop.java](./20-8-25/whileloop.java) | While Loop Example |
+| [dowhileloop.java](./20-8-25/dowhileloop.java) | do-while Loop Example |
+| [Question1.java](./20-8-25/Question1.java) | WAP to print number form 50 to 1 in reverse order |
+
 
 ---
 
