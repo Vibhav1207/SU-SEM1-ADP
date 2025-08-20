@@ -45,10 +45,7 @@
 |-------------|-------|
 | [BitwiseOperator.java](./13-8-25/BitwiseOperator.java) | Bitwise Operators Example |
 
-### 19-08-25
-| 📝 Question | Title |
-|-------------|-------|
-| [AssignmentOperator.java](./19-8-25/AssignmentOperator.java) | Assignment Operators Example |
+
 
 ---
 
