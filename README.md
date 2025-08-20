@@ -52,6 +52,13 @@
 | [ifelse.java](./19-8-25/iflese.java) | IF-Else Program Example |
 | [Question1.java](./19-8-25/Question1.java) | WAP to check if a number is positive, negative, or zero |
 | [Question2.java](./19-8-25/Question2.java) |  A person is eligible to vote if their age is 18 or above. If they are 18 or above, check if they have a voter ID card. If they do, print "You are eligible to vote." If they don't have a voter ID card, print "You need a voter ID to vote.|
+
+### 20-08-25
+| 📝 Question | Title |
+|-------------|-------|
+| [forloop.java](./20-8-25/forloop.java) | For Loop Example |
+| [whileloop.java](./20-8-25/whileloop.java) | While Loop Example |
+
 ---
 
 ## 📅 July
