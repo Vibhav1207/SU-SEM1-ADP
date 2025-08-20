@@ -60,6 +60,7 @@
 | [whileloop.java](./20-8-25/whileloop.java) | While Loop Example |
 | [dowhileloop.java](./20-8-25/dowhileloop.java) | do-while Loop Example |
 | [Question1.java](./20-8-25/Question1.java) | WAP to print number form 50 to 1 in reverse order |
+| [Question2.java](./20-8-25/Question2.java) | There are 2 sides given as a = 3, b=2 and c=7. Check that will it form a triangle |
 
 
 ---
