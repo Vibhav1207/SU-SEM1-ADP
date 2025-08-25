@@ -61,7 +61,7 @@
 | [dowhileloop.java](./20-8-25/dowhileloop.java) | do-while Loop Example |
 | [Question1.java](./20-8-25/Question1.java) | WAP to print number form 50 to 1 in reverse order |
 | [Question2.java](./20-8-25/Question2.java) | There are 2 sides given as a = 3, b=2 and c=7. Check that will it form a triangle |
-| [Question3.java](./20-8-25/Question3.java) | WAP to get factorial of a user-input number |
+| [Question3.java](./20-8-25/Question3.java) | WAP to get fact/,,Forial of a user-input number |
 
 
 ---
@@ -71,14 +71,13 @@
 ### 25-7-25
 | 📝 Question | Title |
 |-------------|-------|
-| [Demo.java](./July/25-7-25/Demo.java) | Demo Java class |
+
 | [Test.java](./July/25-7-25/Test.java) | Test Java class |
 
 ### 29-7-25
 | 📝 Question | Title |
 |-------------|-------|
 | [Helloworld.java](./July/29-7-25/Helloworld.java) | Hello World Example |
-| [Vibahv.java](./July/29-7-25/Vibahv.java) | Vibahv Example |
 
 ---
 

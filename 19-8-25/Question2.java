@@ -1,4 +1,4 @@
-// A person is eligible to vote if their age is 18 or above. If they are 18 or above, check if they have a voter ID card. If they do, print "You are eligible to vote." If they don't have a voter ID card, print "You need a voter ID to vote."
+//  A person is eligible to vote if their age is 18 or above. If they are 18 or above, check if they have a voter ID card. If they do, print "You are eligible to vote." If they don't have a voter ID card, print "You need a voter ID to vote."
 
 import java.util.Scanner;
 
