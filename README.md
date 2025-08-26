@@ -4,7 +4,8 @@
 
 ---
 
-## 📅 August
+<details>
+<summary>📅 August</summary>
 
 ### 01-08-25
 | 📝 Question | Title |
@@ -63,21 +64,22 @@
 | [Question2.java](./20-8-25/Question2.java) | There are 2 sides given as a = 3, b=2 and c=7. Check that will it form a triangle |
 | [Question3.java](./20-8-25/Question3.java) | WAP to get fact/,,Forial of a user-input number |
 
+</details>
 
----
-
-## 📅 July
+<details>
+<summary>📅 July</summary>
 
 ### 25-7-25
 | 📝 Question | Title |
 |-------------|-------|
-
 | [Test.java](./July/25-7-25/Test.java) | Test Java class |
 
 ### 29-7-25
 | 📝 Question | Title |
 |-------------|-------|
 | [Helloworld.java](./July/29-7-25/Helloworld.java) | Hello World Example |
+
+</details>
 
 ---
 
