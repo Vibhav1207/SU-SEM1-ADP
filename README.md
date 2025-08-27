@@ -64,7 +64,20 @@
 | [Question2.java](./20-8-25/Question2.java) | There are 2 sides given as a = 3, b=2 and c=7. Check that will it form a triangle |
 | [Question3.java](./20-8-25/Question3.java) | WAP to get fact/,,Forial of a user-input number |
 
+### 25-8-25
+| 📝 Question | Title |
+|-------------|-------|
+| [Question1.java](./25-8-25/Question1.java) | Write a java program to show single inherticance where a class animal has a method eat() and a class dog inheritance from it method bark() |
+| [Question3.java](./25-8-25/Question3.java) | Write a java program to demonstrate hiarcical inheritance where both the dog and cat classes inherites from the base class animal. |
+
+### 26-8-25
+| 📝 Question | Title |
+|-------------|-------|
+| [Question1.java](./26-8-25/Question1.java) | Write a java program to create a class calculator with a method that 1) adds 2 numbers , 2) adds 3 numbers call both the methods from the main method and print the result |
+| [Question2.java](./26-8-25/Question2.java) | Write a Java program with a parent class Animal having a method sound() that prints "Animal makes a sound". Create a child class Dog that overrides the sound() method to print "Dog barks". In the main method, create objects of both Animal and Dog classes and call the sound() method for both. |
+
 </details>
+
 
 <details>
 <summary>📅 July</summary>
@@ -80,6 +93,27 @@
 | [Helloworld.java](./July/29-7-25/Helloworld.java) | Hello World Example |
 
 </details>
+
+---
+
+## Assignment 1
+
+| 📝 Question | Title |
+|-------------|-------|
+| [Question1.java](./Assignment_1/Question1.java) | Demonstrate how to calculate the simple interest when principal, rate, and time are given using arithmetic operators. |
+| [Question3.java](./Assignment_1/Question3.java) | Demonstrate a Java program using bitwise operators to perform AND, OR, and XOR operations on two integers entered by the user and display the results. |
+| [Question4.java](./Assignment_1/Question4.java) | Demonstrate how to find the smallest of two numbers using the ternary operator. |
+| [Question5.java](./Assignment_1/Question5.java) | Demonstrate how to check whether a person is eligible to vote based on their age |
+| [Queston6.java](./Assignment_1/Queston6.java) | Demonstrate how to store the name, age, and marks of a student using appropriate data types. |
+| [Question7.java](./Assignment_1/Question7.java) | Demonstrate how to display the multiplication table of a number entered by the user. |
+| [Question8.java](./Assignment_1/Question8.java) | Demonstrate how to store marks of 5 subjects in an array and calculate the average. |
+| [Question9.java](./Assignment_1/Question9.java) | Demonstrate how to count the number of characters in a word entered by the user |
+| [Question10.java](./Assignment_1/Question10.java) | Apply the concept of looping and arithmetic operators to find the sum of the digits of a number entered by the user. (For example, if the input is 456, the output should be 4 + 5 + 6 = 15.) |
+| [Question11.java](./Assignment_1/Question11.java) | Apply the concept of shift operators to show how multiplying and dividing a number by 2 can be done efficiently. (For example, if the number is 8, left shift gives 16 and right shift gives 4.) |
+| [Question12.java](./Assignment_1/Question12.java) | Apply the concept of nested if-else to find the largest among three numbers entered by the user. |
+| [Question13.java](./Assignment_1/Question13.java) | Apply the concept of a while loop to reverse a number entered by the user. |
+| [Question14.java](./Assignment_1/Question14.java) | Apply the concept of arrays and decision statements to find the highest and lowest score from a list of student marks. |
+| [Question15.java](./Assignment_1/Question15.java) | Apply the concept of arrays to separate even and odd numbers from a given list of integers. |
 
 ---
 
