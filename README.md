@@ -101,6 +101,7 @@
 | 📝 Question | Title |
 |-------------|-------|
 | [Question1.java](./Assignment_1/Question1.java) | Demonstrate how to calculate the simple interest when principal, rate, and time are given using arithmetic operators. |
+| [Question2.java](./Assignment_1/Question2.java) | Demonstrate how to compare the marks of two students to check who scored higher. |
 | [Question3.java](./Assignment_1/Question3.java) | Demonstrate a Java program using bitwise operators to perform AND, OR, and XOR operations on two integers entered by the user and display the results. |
 | [Question4.java](./Assignment_1/Question4.java) | Demonstrate how to find the smallest of two numbers using the ternary operator. |
 | [Question5.java](./Assignment_1/Question5.java) | Demonstrate how to check whether a person is eligible to vote based on their age |
